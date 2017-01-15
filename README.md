@@ -2,6 +2,10 @@
 
 A screenshot gem you can use from your ruby application. Uses Phantom.js under the hood.
 
+## Changes in this fork
+
+- Made it render local files (i.e. `file:///...`)
+
 ## Installation
 
 Add this line to your application's Gemfile:
